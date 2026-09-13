@@ -152,11 +152,13 @@ Data / Message Flow Analysis
     ↓
 Error & Logging Consideration
     ↓
+Scrum/Agile process(Refinement, Sprint Planning)
+    ↓
 Development Scope
     ↓
 Testing Scope
     ↓
-Sprint Readiness
+Sprint Readiness(Review code, Sprint Review)
     ↓
 Development Support
     ↓
