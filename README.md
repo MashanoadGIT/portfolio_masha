@@ -32,7 +32,7 @@ mashaforwork.u@email.com
 [mashanoad-linkedin-url](https://www.linkedin.com/in/mashanoad-urairat-8a483b277/?locale=th)
 
 💻 GitHub  
-@your-github
+@MashanoadGIT
 
 <hr>
 
@@ -62,14 +62,12 @@ mashaforwork.u@email.com
 • Confluence  
 • Jira  
 
-<br>
 
 <b>Integration</b>
 
 • Postman  
 • Kafka  
 
-<br>
 
 <b>Monitoring</b>
 
@@ -78,7 +76,6 @@ mashaforwork.u@email.com
 • Tabby  
 • Jump Host  
 
-<br>
 
 <b>Deployment & Source Control</b>
 
