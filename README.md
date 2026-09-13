@@ -1,14 +1,17 @@
 <table>
 <tr>
 
-<!-- ================= LEFT COLUMN ================= -->
-<td width="30%" valign="top">
+<!-- ===================================================== -->
+<!-- LEFT COLUMN -->
+<!-- ===================================================== -->
+
+<td width="28%" valign="top">
 
 <div align="center">
 
-<img src="41563118-56a4-467e-a463-e5ccc34c4775.png" width="170"/>
+<img src="assets/profile.png" width="170">
 
-<h2>Mashanoad Urairat</h2>
+<h2>Your Name</h2>
 
 <b>System Analyst</b>
 
@@ -20,102 +23,286 @@
 
 <hr>
 
-<h3>📧 Contact</h3>
+<h3>Contact</h3>
 
-Email: yourmail@email.com
+📧 Email  
+your-email@email.com
 
-LinkedIn:  
-your-linkedin
+🔗 LinkedIn  
+your-linkedin-url
 
-GitHub:  
-@yourusername
+💻 GitHub  
+@your-github
 
 <hr>
 
-<h3>🛠 Skills</h3>
+<h3>Core Competencies</h3>
 
-• System Analysis  
 • Requirement Analysis  
-• System Design  
+• System Analysis & Design  
+• System Flow Design  
 • Sequence Diagram  
-• System Flow  
+• Use Case Analysis  
 • Data Flow  
 • Data Mapping  
-• API Integration  
-• Kafka Integration  
-• Functional Testing  
+• API Integration Analysis  
+• Kafka Message Flow Analysis  
+• Functional Test Scope  
+• Troubleshooting  
+• Deployment Support  
+• Application Monitoring  
 
 <hr>
 
-<h3>⚙️ Tools</h3>
+<h3>Tools & Technologies</h3>
+
+<b>Analysis & Documentation</b>
 
 • draw.io  
-• Jira  
 • Confluence  
+• Jira  
+
+<br>
+
+<b>Integration</b>
+
 • Postman  
 • Kafka  
+
+<br>
+
+<b>Monitoring</b>
+
 • Grafana  
 • Elastic  
-• Argo  
-• GitHub  
 • Tabby  
 • Jump Host  
 
+<br>
+
+<b>Deployment & Source Control</b>
+
+• Argo  
+• GitHub  
+
 <hr>
 
-<h3>🌐 Languages</h3>
+<h3>Languages</h3>
 
-Thai — Native  
+🇹🇭 Thai — Native
 
-English — Intermediate
+🇬🇧 English — Intermediate
 
 </td>
 
 
-<!-- ================= RIGHT COLUMN ================= -->
-<td width="70%" valign="top">
+<!-- ===================================================== -->
+<!-- RIGHT COLUMN -->
+<!-- ===================================================== -->
 
-<h1>YOUR NAME</h1>
+<td width="72%" valign="top">
 
-<h3>System Analyst</h3>
+<h1>SYSTEM ANALYST PORTFOLIO</h1>
+
+<h3>System Design • Integration • Requirement Analysis</h3>
 
 <p>
-System Analyst focused on transforming business and product
-requirements into clear, feasible, and testable system designs.
+I am a System Analyst focused on transforming business and product
+requirements into clear, feasible, testable, and maintainable
+system designs.
 </p>
 
 <p>
-Experienced in system integration analysis, API flows,
-event-driven architecture, data flows, technical documentation,
-testing support, deployment support, and production troubleshooting.
+My work covers requirement clarification, system flow design,
+integration analysis, data flow, API interaction, Kafka message
+processing, testing scope, deployment support, troubleshooting,
+and application monitoring.
+</p>
+
+<p>
+I work closely with Product Owners, Project Managers, Developers,
+Testers, DevOps, Infrastructure, Operations, and Users to ensure
+that requirements can be translated into practical technical
+solutions and delivered within the agreed scope.
 </p>
 
 <hr>
 
-<h2>👨‍💻 About Me</h2>
+<h2>About My Role</h2>
 
-I work across the software development lifecycle from requirement
-clarification and technical design through development support,
-testing, deployment, and monitoring.
+<p>
+My responsibility as a System Analyst is not limited to creating
+documentation. I analyze how a requirement affects the existing
+system, identify dependencies, design the processing logic, define
+integration behavior, and ensure that the solution can be
+developed, tested, deployed, and monitored effectively.
+</p>
 
+<p>
+For each requirement, I typically consider:
+</p>
+
+<pre>
+Requirement
+    ↓
+Requirement Clarification
+    ↓
+Impact Analysis
+    ↓
+System & Integration Design
+    ↓
+Data / Message Flow Analysis
+    ↓
+Error & Logging Consideration
+    ↓
+Development Scope
+    ↓
+Testing Scope
+    ↓
+Sprint Readiness
+    ↓
+Development Support
+    ↓
+Testing & Troubleshooting
+    ↓
+Deployment & Monitoring
+</pre>
+
+<hr>
+
+<h2>What I Do</h2>
+
+<h3>01 — Requirement Analysis</h3>
+
+<p>
+Analyze requirements from Product Managers or Product Owners
+and translate them into technical system behavior.
+</p>
+
+<p>
+My analysis includes:
+</p>
+
+<ul>
+<li>Clarifying functional requirements</li>
+<li>Identifying affected systems and components</li>
+<li>Analyzing upstream and downstream dependencies</li>
+<li>Defining expected system behavior</li>
+<li>Identifying edge cases and failure scenarios</li>
+<li>Evaluating technical feasibility with the development team</li>
+<li>Proposing alternative solutions when technical constraints are found</li>
+</ul>
+
+<br>
+
+<h3>02 — System Design</h3>
+
+<p>
+Design end-to-end system flows to provide a common understanding
+between business and technical teams before implementation.
+</p>
+
+<p>
+Typical deliverables include:
+</p>
+
+<ul>
+<li>System Flow Diagram</li>
+<li>Sequence Diagram</li>
+<li>Use Case Diagram</li>
+<li>Data Flow</li>
+<li>Data Mapping</li>
+<li>API Flow</li>
+<li>Message Processing Flow</li>
+<li>Error Handling Flow</li>
+</ul>
+
+<br>
+
+<h3>03 — Integration Analysis</h3>
+
+<p>
+Analyze communication between services, databases,
+message brokers, and external systems.
+</p>
+
+<p>
+Integration analysis may include:
+</p>
+
+<ul>
+<li>API request and response flow</li>
+<li>Kafka producer and consumer behavior</li>
+<li>Topic and message flow analysis</li>
+<li>Database interaction</li>
+<li>Data mapping between systems</li>
+<li>External dependency handling</li>
+<li>Connection failure scenarios</li>
+</ul>
+
+<br>
+
+<h3>04 — Error Handling & Observability</h3>
+
+<p>
+During system design, I also consider how issues can be identified
+and investigated after implementation.
+</p>
+
+<p>
+This includes identifying suitable logging points for:
+</p>
+
+<ul>
+<li>Request or message received</li>
+<li>Validation result</li>
+<li>Processing status</li>
+<li>External dependency calls</li>
+<li>Database interaction</li>
+<li>Failure scenarios</li>
+<li>Processing result</li>
+</ul>
+
+<p>
+During development and production support, I analyze application
+logs, warnings, errors, deployment status, and message flow to
+support troubleshooting.
+</p>
+
+<br>
+
+<h3>05 — Sprint & Delivery Support</h3>
+
+<p>
+Before requirements enter a Sprint, I prepare and clarify the
+technical scope to make sure Developers and Testers have enough
+information to start their work.
+</p>
+
+<p>
 My responsibilities include:
+</p>
 
 <ul>
 <li>Requirement clarification</li>
-<li>System flow design</li>
-<li>Sequence diagram design</li>
-<li>Data flow and data mapping</li>
-<li>API and system integration analysis</li>
-<li>Kafka message flow analysis</li>
-<li>Acceptance Criteria and Definition of Done</li>
-<li>Sprint scope preparation</li>
-<li>Functional testing support</li>
-<li>Troubleshooting and production support</li>
+<li>Scope definition</li>
+<li>Acceptance Criteria preparation</li>
+<li>Definition of Done preparation</li>
+<li>Dependency identification</li>
+<li>Development scope clarification</li>
+<li>Testing scope clarification</li>
+<li>Sprint readiness preparation</li>
 </ul>
+
+<p>
+During implementation, I support issue analysis and coordinate
+with related teams when additional access, configuration,
+environment information, or dependencies are required.
+</p>
 
 <hr>
 
-<h2>💼 Experience</h2>
+<h2>Professional Experience</h2>
 
 <h3>System Analyst</h3>
 
@@ -123,111 +310,259 @@ My responsibilities include:
 
 <br>
 
-June 2026 – Present
+June 2026 — Present
 
 <br><br>
 
+<p>
+Responsible for system analysis, technical design, sprint
+preparation, development support, testing support, deployment
+verification, and production monitoring.
+</p>
+
+<b>Key Responsibilities</b>
+
 <ul>
+
 <li>
-Analyze requirements and translate them into technical
-system designs.
+Analyze business and product requirements and translate them
+into technical system designs.
 </li>
 
 <li>
-Design Sequence Diagrams, System Flows,
-Data Flows and Data Mapping.
+Design Sequence Diagrams, System Flows, Use Case Diagrams,
+Data Flows, and Data Mapping.
 </li>
 
 <li>
-Analyze integration between APIs, Kafka,
-databases and external systems.
+Design processing logic and review technical feasibility
+with Product Owners and development teams.
 </li>
 
 <li>
-Define development and functional testing scope.
+Analyze API, Kafka, database, and system integration flows.
 </li>
 
 <li>
-Prepare requirements, Acceptance Criteria
-and Definition of Done for Sprint planning.
+Identify technical dependencies and coordinate with
+Infrastructure, Operations, DevOps, Developers, Testers,
+Project Managers, and Users.
 </li>
 
 <li>
-Coordinate with Developers, Testers,
-DevOps, Infrastructure and Operations.
+Define and review development and functional testing scope
+before work enters a Sprint.
 </li>
 
 <li>
-Support troubleshooting through application logs,
-message flows and system behavior analysis.
+Prepare Acceptance Criteria and Definition of Done to
+support Sprint readiness.
 </li>
 
 <li>
-Verify deployment status and production monitoring.
+Support Developers and Testers during implementation
+and issue investigation.
 </li>
+
+<li>
+Analyze application logs and message flows to support
+troubleshooting.
+</li>
+
+<li>
+Monitor deployment status and application behavior after
+deployment.
+</li>
+
+<li>
+Coordinate security-related findings with technical teams.
+</li>
+
 </ul>
 
 <hr>
 
-<h2>📂 Featured Projects</h2>
+<h2>Featured Case Studies</h2>
 
-<h3>01 — Event-Driven File Processing</h3>
+<p>
+The following case studies are recreated and anonymized versions
+of system analysis work. They are designed to demonstrate my
+analysis and design approach without exposing confidential
+company information.
+</p>
 
-An event-driven backend system that consumes Kafka messages,
-processes data based on dynamic configuration and generates
-files for enterprise storage.
+<h3>01 — Event-Driven File Processing Service</h3>
 
-<b>System Analysis Scope</b>
+<p>
+An event-driven backend service that consumes messages from a
+message broker, loads processing configuration, applies
+processing rules, and generates output files for enterprise
+storage.
+</p>
+
+<b>System Analyst Scope</b>
 
 <ul>
+<li>Requirement analysis</li>
+<li>End-to-end processing flow</li>
 <li>Kafka message flow</li>
-<li>Configuration-driven processing</li>
+<li>Dynamic configuration design</li>
+<li>Data filtering and grouping scenarios</li>
 <li>File generation flow</li>
-<li>Data filtering and grouping</li>
+<li>Metadata processing</li>
 <li>Error handling</li>
 <li>Logging design</li>
-<li>Functional testing scenarios</li>
+<li>Functional testing scope</li>
+<li>Deployment and monitoring support</li>
 </ul>
 
-<a href="./projects/event-driven-system.md">
-View Case Study →
-</a>
-
-<br><br>
-
-<h3>02 — API & Data Integration</h3>
-
-Backend integration design involving APIs,
-databases and downstream systems.
-
-<b>System Analysis Scope</b>
+<b>Key Design Considerations</b>
 
 <ul>
-<li>API request / response flow</li>
-<li>Database interaction</li>
-<li>Data mapping</li>
-<li>Error scenarios</li>
-<li>Connection handling</li>
-<li>Testing scope</li>
+<li>How messages are consumed and validated</li>
+<li>How processing configuration is retrieved</li>
+<li>How different processing rules affect generated output</li>
+<li>How failures are logged and handled</li>
+<li>How incomplete processing is handled during service shutdown</li>
+<li>How generated files are verified during testing</li>
 </ul>
 
-<a href="./projects/api-integration.md">
+<p>
+<a href="./projects/event-driven-file-processing/README.md">
 View Case Study →
 </a>
+</p>
+
+
+<h3>02 — Identity Data Integration Platform</h3>
+
+<p>
+A backend integration platform responsible for retrieving,
+managing, and distributing identity-related information between
+databases, APIs, and downstream systems.
+</p>
+
+<b>System Analyst Scope</b>
+
+<ul>
+<li>Requirement gathering</li>
+<li>API flow design</li>
+<li>Sequence diagram design</li>
+<li>Data flow analysis</li>
+<li>Data mapping</li>
+<li>Database relationship analysis</li>
+<li>Functional testing scope</li>
+<li>Issue investigation</li>
+<li>Deployment support</li>
+<li>Application monitoring</li>
+</ul>
+
+<b>Key Design Considerations</b>
+
+<ul>
+<li>Request and response flow</li>
+<li>Database interaction</li>
+<li>Data mapping between systems</li>
+<li>Connection failure scenarios</li>
+<li>Error response behavior</li>
+<li>System recovery and reconnection behavior</li>
+</ul>
+
+<p>
+<a href="./projects/data-integration-platform/README.md">
+View Case Study →
+</a>
+</p>
 
 <hr>
 
-<h2>🎓 Education</h2>
+<h2>How I Approach System Design</h2>
 
-<b>Your Degree</b>
+<p>
+My approach is to look beyond the normal success flow.
+A system design should also explain what happens when validation
+fails, configuration is unavailable, a downstream system cannot
+be reached, or processing is interrupted.
+</p>
 
-<br>
+<pre>
+Happy Path
+     +
+Validation
+     +
+Failure Scenarios
+     +
+Dependency Behavior
+     +
+Logging
+     +
+Testing
+     +
+Deployment
+     +
+Monitoring
+     =
+Complete System Design
+</pre>
 
-University Name
+<p>
+My goal is to create technical designs that are clear enough for
+Developers to implement, Testers to verify, and support teams to
+troubleshoot after deployment.
+</p>
 
-<br>
+<hr>
 
-Year
+<h2>Portfolio Contents</h2>
+
+<pre>
+system-analyst-portfolio/
+│
+├── README.md
+│
+├── assets/
+│   ├── profile.png
+│   └── diagrams/
+│
+├── projects/
+│
+│   ├── event-driven-file-processing/
+│   │   ├── README.md
+│   │   ├── system-flow.md
+│   │   ├── sequence-diagram.md
+│   │   ├── error-handling.md
+│   │   └── test-scenarios.md
+│   │
+│   └── data-integration-platform/
+│       ├── README.md
+│       ├── api-flow.md
+│       ├── sequence-diagram.md
+│       ├── data-mapping.md
+│       └── failure-scenarios.md
+│
+└── examples/
+    ├── requirement-analysis.md
+    ├── acceptance-criteria.md
+    ├── data-mapping.md
+    └── test-scope.md
+</pre>
+
+<hr>
+
+<h2>Confidentiality</h2>
+
+<p>
+All case studies, diagrams, sample payloads, system names,
+endpoints, configuration values, and scenarios presented in this
+repository have been anonymized or recreated specifically for
+portfolio purposes.
+</p>
+
+<p>
+No confidential company information, production credentials,
+customer data, internal endpoints, proprietary source code,
+or restricted documentation is included.
+</p>
 
 </td>
 
