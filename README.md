@@ -11,7 +11,7 @@
 
 <img src="assets/profile.png" width="170">
 
-<h2>Your Name</h2>
+<h2>Mashanoad Urairat</h2>
 
 <b>System Analyst</b>
 
@@ -26,10 +26,10 @@
 <h3>Contact</h3>
 
 📧 Email  
-your-email@email.com
+mashaforwork.u@email.com
 
 🔗 LinkedIn  
-your-linkedin-url
+[mashanoad-linkedin-url](https://www.linkedin.com/in/mashanoad-urairat-8a483b277/?locale=th)
 
 💻 GitHub  
 @your-github
