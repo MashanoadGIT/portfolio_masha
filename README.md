@@ -303,83 +303,138 @@ environment information, or dependencies are required.
 
 <h2>Professional Experience</h2>
 
+<!-- ===================================================== -->
+<!-- AIS NEXT CRONUS -->
+<!-- ===================================================== -->
+
 <h3>System Analyst</h3>
 
-<b>AIS NEXT CRONUS</b>
+<p>
+  <strong>AIS NEXT CRONUS</strong><br>
+  June 2026 – Present | Bangkok, Thailand
+</p>
+
+<p>
+Responsible for system design and delivery support across requirement
+clarification, technical design, sprint preparation, development,
+testing, deployment, and issue investigation.
+</p>
+
+<ul>
+  <li>
+    Translate requirements into end-to-end system logic and technical
+    designs, then validate feasibility and alternative approaches with
+    Product Owners and technical teams.
+  </li>
+
+  <li>
+    Design Sequence Diagrams, System Flows, Use Case Diagrams,
+    Data Flows, and Data Mapping to define system behavior and
+    integration between components.
+  </li>
+
+  <li>
+    Define development and testing scope, Acceptance Criteria,
+    Definition of Done, dependencies, and required information
+    before work enters a Sprint.
+  </li>
+
+  <li>
+    Coordinate with Developers, Testers, Infrastructure, Operations,
+    DevOps, Project Managers, and Users to provide required sources,
+    access, connection information, and testing data.
+  </li>
+
+  <li>
+    Support development and testing through requirement clarification,
+    issue analysis, troubleshooting, and verification of expected
+    system behavior.
+  </li>
+
+  <li>
+    Analyze application logs, message flows, errors, warnings,
+    deployment status, and security findings to support investigation
+    and coordinate resolution with technical teams.
+  </li>
+</ul>
 
 <br>
 
-June 2026 — Present
+<hr>
 
-<br><br>
+<br>
+
+<!-- ===================================================== -->
+<!-- CPF -->
+<!-- ===================================================== -->
+
+<h3>Supply Chain Development Staff</h3>
 
 <p>
-Responsible for system analysis, technical design, sprint
-preparation, development support, testing support, deployment
-verification, and production monitoring.
+  <strong>CPF Food Network Co., Ltd.</strong><br>
+  <strong>System &amp; Data Analysis Department</strong><br>
+  March 2025 – May 2026 (1.3 Years) | Bangkok, Thailand
 </p>
 
-<b>Key Responsibilities</b>
+<p>
+Responsible for system and data analysis to support supply chain
+operations, system improvement, data integration, forecasting analysis,
+process automation, and business performance monitoring.
+</p>
 
 <ul>
 
-<li>
-Analyze business and product requirements and translate them
-into technical system designs.
-</li>
+  <li>
+    Gather and clarify business requirements, analyze existing processes,
+    and translate operational needs into system and data requirements.
+  </li>
 
-<li>
-Design Sequence Diagrams, System Flows, Use Case Diagrams,
-Data Flows, and Data Mapping.
-</li>
+  <li>
+    Design Data Flows and Data Mapping for integration between ERP,
+    external data sources, and enterprise data platforms.
+  </li>
 
-<li>
-Design processing logic and review technical feasibility
-with Product Owners and development teams.
-</li>
+  <li>
+    Coordinate with business users and technical teams to validate
+    requirements, data readiness, implementation scope, and expected
+    system behavior.
+  </li>
 
-<li>
-Analyze API, Kafka, database, and system integration flows.
-</li>
+  <li>
+    Analyze demand forecasting approaches by defining mathematical logic,
+    business rules, and optimization conditions, then evaluate model
+    results and identify causes of forecast deviation.
+  </li>
 
-<li>
-Identify technical dependencies and coordinate with
-Infrastructure, Operations, DevOps, Developers, Testers,
-Project Managers, and Users.
-</li>
+  <li>
+    Design demand, sales, and forecast performance monitoring frameworks
+    to support business analysis and decision-making across multiple
+    sales channels.
+  </li>
 
-<li>
-Define and review development and functional testing scope
-before work enters a Sprint.
-</li>
+  <li>
+    Analyze data quality, business logic, and source-to-target mapping
+    to ensure data is suitable for reporting and downstream usage.
+  </li>
 
-<li>
-Prepare Acceptance Criteria and Definition of Done to
-support Sprint readiness.
-</li>
+  <li>
+    Design and support process automation initiatives to reduce repetitive
+    manual activities, including workflow improvements that eliminated
+    five redundant processes and reduced processing time by 86.67%.
+  </li>
 
-<li>
-Support Developers and Testers during implementation
-and issue investigation.
-</li>
+  <li>
+    Support enterprise data integration initiatives involving ERP data,
+    external API data, Data Lake, and Data Warehouse environments.
+  </li>
 
-<li>
-Analyze application logs and message flows to support
-troubleshooting.
-</li>
-
-<li>
-Monitor deployment status and application behavior after
-deployment.
-</li>
-
-<li>
-Coordinate security-related findings with technical teams.
-</li>
+  <li>
+    Work with business and technical teams throughout requirement
+    clarification, solution design, implementation validation, and
+    post-implementation analysis.
+  </li>
 
 </ul>
-
-<hr>
 
 <h2>Featured Case Studies</h2>
 
